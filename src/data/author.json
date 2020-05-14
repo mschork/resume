@@ -1,12 +1,12 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
-    "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "name": "Markus Roberto Schork",
+    "occupation": "CTO Hair Digital at Unilever",
+    "location": "London, UK",
+    "avatar": "avatar-markus.jpg",
+    "pronouns": "him/his",
+    "email": "markus.schork@gmail.com",
+    "telephone": "+44 7774 734883",
+    "website": "https://atelierschork.com",
     "skills": [
         "HTML",
         "CSS",
@@ -18,11 +18,11 @@
     "languages": [
         {
             "name": "English",
-            "level": "native"
+            "level": "fluent"
         },
         {
             "name": "German",
-            "level": "fluent"
+            "level": "native"
         },
         {
             "name": "French",
@@ -33,12 +33,12 @@
         {
             "name": "Github",
             "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "url": "https://github.com/mschork"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "markusschork",
+            "url": "https://www.linkedin.com/in/markusschork/"
         }
     ]
 }
